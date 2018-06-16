@@ -8,9 +8,9 @@
 	<version>1.0.0.BUILD-SNAPSHOT</version>
 
 	<modules>
-		<module>zipkin-server</module>
+<!--		<module>zipkin-server</module>-->
 		<module>spring-cloud-eureka</module>
-		<module>spring-cloud-producer</module>
+<!--		<module>spring-cloud-producer</module>
 		<module>spring-cloud-consumer</module>
 		<module>spring-cloud-consumer-hystrix</module>
 		<module>spring-cloud-zuul</module>
@@ -21,7 +21,7 @@
 		<module>spring-cloud-admin-eureka</module>
 		<module>spring-cloud-admin-producer</module>
 		<module>spring-cloud-admin-producer-2</module>
-		<module>spring-cloud-admin-spring-boot-admin-server</module>
+		<module>spring-cloud-admin-spring-boot-admin-server</module>-->
 	</modules>
 
 	<packaging>pom</packaging>
